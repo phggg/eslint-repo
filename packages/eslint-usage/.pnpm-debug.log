@@ -1,0 +1,21 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1,
+    "workspacePrefix": "/Users/zhaoziwei/eslint-repo"
+  },
+  "1 error pnpm": {
+    "shortMessage": "Command failed with exit code 1: /usr/local/bin/pnpm add @esling/create-config --global --global-dir /private/var/folders/m8/mwl5bhzj75d7cv533c_550q80000gn/T/dlx-14393 --dir /private/var/folders/m8/mwl5bhzj75d7cv533c_550q80000gn/T/dlx-14393",
+    "command": "/usr/local/bin/pnpm add @esling/create-config --global --global-dir /private/var/folders/m8/mwl5bhzj75d7cv533c_550q80000gn/T/dlx-14393 --dir /private/var/folders/m8/mwl5bhzj75d7cv533c_550q80000gn/T/dlx-14393",
+    "escapedCommand": "\"/usr/local/bin/pnpm\" add \"@esling/create-config\" --global --global-dir \"/private/var/folders/m8/mwl5bhzj75d7cv533c_550q80000gn/T/dlx-14393\" --dir \"/private/var/folders/m8/mwl5bhzj75d7cv533c_550q80000gn/T/dlx-14393\"",
+    "exitCode": 1,
+    "failed": true,
+    "timedOut": false,
+    "isCanceled": false,
+    "killed": false,
+    "err": {
+      "name": "pnpm",
+      "message": "Command failed with exit code 1: /usr/local/bin/pnpm add @esling/create-config --global --global-dir /private/var/folders/m8/mwl5bhzj75d7cv533c_550q80000gn/T/dlx-14393 --dir /private/var/folders/m8/mwl5bhzj75d7cv533c_550q80000gn/T/dlx-14393",
+      "stack": "pnpm: Command failed with exit code 1: /usr/local/bin/pnpm add @esling/create-config --global --global-dir /private/var/folders/m8/mwl5bhzj75d7cv533c_550q80000gn/T/dlx-14393 --dir /private/var/folders/m8/mwl5bhzj75d7cv533c_550q80000gn/T/dlx-14393\n    at makeError (/Users/zhaoziwei/pnpm-global/5/node_modules/.pnpm/pnpm@6.32.11/node_modules/pnpm/dist/pnpm.cjs:42606:17)\n    at handlePromise (/Users/zhaoziwei/pnpm-global/5/node_modules/.pnpm/pnpm@6.32.11/node_modules/pnpm/dist/pnpm.cjs:43177:33)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async Object.handler (/Users/zhaoziwei/pnpm-global/5/node_modules/.pnpm/pnpm@6.32.11/node_modules/pnpm/dist/pnpm.cjs:177939:7)\n    at async /Users/zhaoziwei/pnpm-global/5/node_modules/.pnpm/pnpm@6.32.11/node_modules/pnpm/dist/pnpm.cjs:182630:21\n    at async run (/Users/zhaoziwei/pnpm-global/5/node_modules/.pnpm/pnpm@6.32.11/node_modules/pnpm/dist/pnpm.cjs:182604:34)\n    at async runPnpm (/Users/zhaoziwei/pnpm-global/5/node_modules/.pnpm/pnpm@6.32.11/node_modules/pnpm/dist/pnpm.cjs:182823:5)\n    at async /Users/zhaoziwei/pnpm-global/5/node_modules/.pnpm/pnpm@6.32.11/node_modules/pnpm/dist/pnpm.cjs:182815:7"
+    }
+  }
+}
